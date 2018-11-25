@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-25T18:16:47+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/User/OneDrive/Лингвистика/LiveCorpus/Sankt-Peterburg_eav2000_2.mp4" MEDIA_URL="file:///C:/Users/User/OneDrive/Лингвистика/LiveCorpus/Sankt-Peterburg_eav2000_2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Sankt-Peterburg_eav2000_2.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/OneDrive/Лингвистика/LiveCorpus/Sankt-Peterburg_eav2000_2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Sankt-Peterburg_eav2000_2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4000991f-1e94-4fbd-8d2d-3294f5cf27af</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2759"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="8799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="16749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="16749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="20199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="23687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="23687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="32192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="32192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="35015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="35984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="38715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="38715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="42046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="42046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="44261"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="44261"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="46861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="46861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="47569"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="47569"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="48738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="48738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="51023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="51023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="52446"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="52446"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="54715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="54715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="56892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="56892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="59923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="59923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="60976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="60976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="62561"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="62561"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="66284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="66284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="68799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="68799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="70023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="70023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="78492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="78492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="82115"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="eav@" TIER_ID="eav@_speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Распахнулись ворота, машина двинулась.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Шурик успевает соскочить на землю и, перебегая дорогу, чуть не попадает под колеса старенького санитарного газика.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Шурик отскакивает и замечает красный крест на машине.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Он пускается бежать вдоль улицы.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>- Стой! Псих! - слышен за его спиной голос.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Старенький газик мгновенно разворачивается и пускается в погоню.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Шурик оглядывается, видит преследующую машину, прибавляет ходу.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Машина нагоняет его, из кабины высовывается Эдик - молодой шофер, с которым Шурик делил дорожные трудности в начале своей фольклорной экспедиции.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>- Что ты бежишь как сумасшедший? - говорит водитель. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>- Где твой ишак?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Этот неожиданный вопрос заставляет Шурика остановиться.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>- А-а, здравствуй,- тяжело дыша, слабо улыбается Шурик.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>- Что случилось? Куда торопишься?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>-Туда! - неопределенно машет Шурик рукой.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>- Садись!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Шурик колеблется.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Но симпатичный горец располагает к себе.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>И Шурик решается.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>- Спасибо! - говорит он и садится в кабину.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>- Куда тебя везти? - спрашивает Эдик.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>- Вот что: Я тебе все расскажу, а ты сам решишь, куда меня везти. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Только давай поскорее!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Шурик нервно оглядывается.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>- Машина - зверь! - гордо бросает водитель и нажимает на стартер. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>'Зверь' воет, но не заводится. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Водитель мрачнеет.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>- Будь проклят тот день, когда я сел за баранку этого пылесоса! - начинает Эдик свое привычное проклятие, но в этот момент одумавшийся 'зверь', взревев, срывается с места.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>У телохранителей в 'Орлином гнезде' только что закончилась обильная трапеза. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_c4771079-4b79-4aba-9aeb-cacba3048573">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c86ad911-d03f-448d-8898-dcd8943b11e9">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_709a055a-b699-4711-a026-afd9eb46b3e9">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_368c51ad-d983-411c-992e-cc342bc1e21b">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_1913b3dd-eb90-43dc-8943-a4911368c6db">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_435dbce1-5a96-4824-8728-7ec474f09820">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e78a0fd8-0794-4d32-b528-4be1c490dc4c">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cdbb7b0d-ce2d-4c8a-96e5-bbf99e118d29">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7feb5dc6-702f-4f0c-835a-3fd60f35c781">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2cae5a2f-b3cb-4104-831e-4762ad768cc2">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2adb7715-6b84-47f2-9278-d220e1ca85f1">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_53fc4f57-f941-49ef-b144-b4ef8016ce81">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_51a5038f-8968-4630-ade8-497b19ddb86e">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f88c0bf7-aca4-4b10-8010-d7c8ffdc6ff3">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b5684f55-ed2e-4c6b-9441-1cb8974d8144">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b8c86302-c26e-43cf-879b-01b1a16e8fc1">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eb9727d9-96dc-42cd-b757-2b1dc85dafec">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
